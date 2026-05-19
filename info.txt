@@ -16,3 +16,5 @@ Commit 7 squash
 Commit 8 squash
 
 Commit 9 squash
+
+commit 10 squash
