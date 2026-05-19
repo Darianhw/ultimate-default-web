@@ -14,3 +14,11 @@ Commit 7 squash
 
 
 Commit 8 squash
+
+Commit 9 squash
+
+commit 10 squash
+
+Commit 11 squash
+
+commit 12 squash
